@@ -21,21 +21,21 @@
     </tr>
     <tr>
         <th>color, dark background</th>
-        <td><img src="./cosmos-dark-theme.png" width="200"></td>
-        <td><img src="../no_artwork_available.png" width="95"></td>
-        <td><img src="../no_artwork_available.png" width="75"></td>
-        <td><img src="./cosmos-dark-theme.svg" width="200"></td>
-        <td><img src="../no_artwork_available.png" width="95"></td>
-        <td><img src="../no_artwork_available.png" width="75"></td>
+        <td><img src="./cosmos-logo-color-dark_background.png" width="200"></td>
+        <td><img src="./no_artwork_available.png" width="95"></td>
+        <td><img src="./no_artwork_available.png" width="75"></td>
+        <td><img src="./cosmos-logo-color-dark_background.svg" width="200"></td>
+        <td><img src="./no_artwork_available.svg" width="95"></td>
+        <td><img src="./no_artwork_available.svg" width="75"></td>
     </tr>  
     <tr>
         <th>color</th>
-        <td><img src="./cosmos-light-theme.png" width="200"></td>
-        <td><img src="../no_artwork_available.png" width="95"></td>
-        <td><img src="../no_artwork_available.png" width="75"></td>
-        <td><img src="./cosmos-light-theme.svg" width="200"></td>
-        <td><img src="../no_artwork_available.png" width="95"></td>
-        <td><img src="../no_artwork_available.png" width="75"></td>
+        <td><img src="./cosmos-logo-color.png" width="200"></td>
+        <td><img src="./no_artwork_available.png" width="95"></td>
+        <td><img src="./cosmos-icon-color.png" width="75"></td>
+        <td><img src="./cosmos-logo-color.svg" width="200"></td>
+        <td><img src="./no_artwork_available.svg" width="95"></td>
+        <td><img src="./cosmos-icon-color.svg" width="75"></td>
     </tr>  
 </table>
 
