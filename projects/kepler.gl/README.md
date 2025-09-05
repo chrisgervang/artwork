@@ -1,4 +1,4 @@
-# kepler.gl Artwork
+# Kepler.gl Artwork
 
 
 <table>

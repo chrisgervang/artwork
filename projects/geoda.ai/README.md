@@ -1,4 +1,4 @@
-# $projectname Artwork
+# GeoDa.ai Artwork
 
 
 <table>
